@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(py \"c:\\\\Users\\\\euseb\\\\Downloads\\\\split_and_fix.py\" --input \"c:\\\\Users\\\\euseb\\\\Downloads\\\\40-505-10 TechWorkshop L400 on-demand Workforce Management.md\" --output \"c:\\\\Users\\\\euseb\\\\OneDrive\\\\Documents\\\\GitHub\\\\TWL400-Workforce-Management\\\\40-505-10-split-output.md\" --child-pattern \"^## \\(Task \\\\d+: .+\\)\" --h2-sections \"Introduction,Description,Success criteria,Learning resources,Key steps,Key tasks\")",
+      "Bash(py --version)",
+      "Bash(python3.exe --version)",
+      "Bash(where python*)",
+      "Bash(py -3 --version)",
+      "Bash(/c/Python*/python.exe)",
+      "Bash(--version)",
+      "Bash(powershell -Command \"python3 --version\")",
+      "Read(//c/Users/euseb/AppData/Local/Programs/**)",
+      "Bash(ls /c/Python*)",
+      "Bash(powershell -Command \"Get-Command python3 -ErrorAction SilentlyContinue | Select-Object Source\")"
+    ]
+  }
+}
