@@ -9,7 +9,7 @@ nav_order: 1
 
 ## Where does this fit-in as part of an end-to-end demo?
 
-![image-57.png](/media/image-57.png)
+![image-57.png](media/image-57.png)
 
 ## Business context
 
